@@ -1,9 +1,9 @@
 var wordList = [
- "pluto",
- "saturn",
- "mars",
- "uranus",
- "venus"
+ "banana",
+ "kiwi",
+ "strawberry",
+ "melon",
+ "mango"
 ]
 
 var chosenWord = "";
